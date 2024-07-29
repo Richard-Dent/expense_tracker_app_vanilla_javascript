@@ -2,7 +2,7 @@
 
 The Expense Tracker App - Vanilla Javascript tracks an individual's income and expenses and displays the balance.  The web application is developed with vanilla Javascript.
 
-![expense tracker app vanilla javascript screenshot](EXPENSE_TRACKING_APP_VANILLA_JAVASCRIPT.png)
+![expense tracker app vanilla javascript screenshot image](EXPENSE_TRACKING_APP_VANILLA_JAVASCRIPT.png)
 
 ## Project Specifications
 
