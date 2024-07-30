@@ -8,7 +8,7 @@ The Expense Tracker App - Vanilla Javascript tracks an individual's income and e
 
 - Create Responsive UI for project
 - Display transaction items in DOM
-- Show balance, expense and income totals
+- Show balance, expense, and income totals
 - Add new transation and reflect in total
 - Delete items from DOM
 - Persist to local storage
